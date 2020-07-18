@@ -40,3 +40,20 @@ body {
     text-align: center;
     
 }
+.bro {
+    width: 100%;
+}
+.row {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
+}
+.column {
+    padding: 5px;
+}
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+    
+}
