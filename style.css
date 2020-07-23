@@ -34,7 +34,7 @@ body {
     max-width: 50%;
     padding: 40px;
     background-color: rgba(255, 219, 143, 0.712);
-    box-shadow: 5px 7px rgb(78, 70, 42);
+    border: 6px rgb(116, 81, 5) solid;
 }
 #introduction h4 {
     text-align: center;
